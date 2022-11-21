@@ -1,0 +1,21 @@
+{
+  "name": "smal-blocks",
+  "version": "0.0.1",
+  "description": "Free Gutenberg Blocks for WordPress",
+  "bugs": {
+    "url": "https://github.com/antonysmal/smal-blocks/issues",
+    "email": "antony.smal@gmail.com"
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antonysmal/smal-blocks"
+  },
+  "author": {
+    "name": "Antony Smal",
+    "email": "antony.smal@gmail.com",
+    "url": "https://antonysmal.fi"
+  },
+  "license": "GPL-2.0-or-later"
+}
